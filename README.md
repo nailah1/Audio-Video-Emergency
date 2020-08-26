@@ -1,4 +1,5 @@
 The files record.py, post.py and mqtt_publisher.py need to be present on the Raspberry Pi (which is connected to a Raspberry Camera and Mic).
+
 Python packages required on the Pi: 
 pyaudio
 
